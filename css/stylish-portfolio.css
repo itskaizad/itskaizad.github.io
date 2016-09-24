@@ -63,6 +63,12 @@ hr.small {
     max-width: 100px;
 }
 
+hr.small-dark {
+    /* Patani help pls lel */
+    max-width: 100px;
+    background-color: rgba(1,0,0,0.8);
+}
+
 /* Side Menu */
 
 #sidebar-wrapper {
