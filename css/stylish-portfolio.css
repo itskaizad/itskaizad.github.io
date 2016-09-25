@@ -29,6 +29,10 @@ body {
     font-weight: 700;
 }
 
+.img-vertical-center {
+    vertical-align: middle;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
