@@ -30,7 +30,9 @@ body {
 }
 
 .img-vertical-center {
+    display: inline-block;
     vertical-align: middle;
+    float: none;
 }
 
 /* Custom Button Styles */
@@ -49,6 +51,13 @@ body {
 }
 
 .btn-light {
+    border-radius: 0;
+    color: #333;
+    background-color: rgb(255,255,255);
+}
+
+.btn-light-padded {
+    margin: 20px;
     border-radius: 0;
     color: #333;
     background-color: rgb(255,255,255);
@@ -232,6 +241,14 @@ hr.small-dark {
 }
 
 /* Call to Action */
+
+.resume {
+    padding: 40px 0;
+    padding-left: 50px;
+    background: #f80;
+    color: white;
+    text-align: center;
+}
 
 .workex{
     padding: 50px 0;
