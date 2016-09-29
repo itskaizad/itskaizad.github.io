@@ -250,8 +250,13 @@ hr.small-dark {
     text-align: center;
 }
 
-.workex{
+.workex {
     padding: 50px 0;
+}
+
+.workex-text {
+    text-align: left;
+    padding: 0 40px;
 }
 
 .call-to-action .btn {
