@@ -244,7 +244,6 @@ hr.small-dark {
 
 .resume {
     padding: 40px 0;
-    padding-left: 50px;
     background: #f80;
     color: white;
     text-align: center;
@@ -252,6 +251,10 @@ hr.small-dark {
 
 .workex {
     padding: 50px; /*Why u no css?*/
+}
+
+.workex-img {
+    padding-top: 15px;
 }
 
 .workex-text {
@@ -291,3 +294,5 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+
