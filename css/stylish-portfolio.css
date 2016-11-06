@@ -174,11 +174,12 @@ hr.small-dark {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/bg.jpg) no-repeat center center scroll;
+    background: url(../img/trial.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    color: #fff;
 }
 
 /* About */
@@ -206,6 +207,12 @@ hr.small-dark {
 
 .languages {
     padding: 0 0 50px 0;
+}
+
+.prog-language-labels {
+    /*font-family: stickytapes;
+	src: url(fonts/stickytapes.ttf); */
+    font-size: 18px;
 }
 
 /* Callout */
